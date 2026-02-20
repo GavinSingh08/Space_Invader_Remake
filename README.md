@@ -8,7 +8,7 @@ A console-based Space Invader–style game built in **Java**. This project demon
 
 - Control a player (`Δ`) at the bottom of a 9x9 grid.
 - Aliens (enemies) spawn at the top and gradually move downward.
-- Shoot bullets (`|`) to destroy aliens before they reach the bottom row.
+- Shoot bullets (`*`) to destroy aliens before they reach the bottom row.
 - The game ends if any alien reaches the bottom.
 - Your score is tracked and saved to `highscore.txt`.
 
